@@ -1,0 +1,4 @@
+enum ParkingSpotType {
+    TwoWheelerSpot,
+    FourWheelerSpot
+}
